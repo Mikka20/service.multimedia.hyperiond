@@ -1,0 +1,16 @@
+1.0.3
+- Update hyperion release "Thu Jun 19, 2014"
+- Commit 24decda30a774b4d3702ec8fa375bc1ac4b849d7
+
+1.0.2
+- Update to XBMC 13.0 Gotham rises
+- Update to OpenELEC 4.0
+- Update hyperion release "Tue May 6, 2014"
+- Commit d1dc28de9db9a90ecfc185882f994d917bce8e6f
+
+1.0.1
+- New hyperion release "December 29, 2013"
+
+1.0.0
+- initial version hyperiond
+- based on the original boblight addon from openelec

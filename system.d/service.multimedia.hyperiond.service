@@ -1,0 +1,14 @@
+[Unit]
+Description=hyperiond
+After=graphical.target
+
+[Service]
+ExecStart=/bin/sh -c "exec sh /storage/.xbmc/addons/service.multimedia.hyperiond/bin/hyperiond.start"
+ExecStopPost=-/bin/sh -c "pidof hyperiond && killall -q -9 hyperiond"
+TimeoutStopSec=1
+Restart=always
+RestartSec=10
+StartLimitInterval=0
+
+[Install]
+WantedBy=xbmc.target
