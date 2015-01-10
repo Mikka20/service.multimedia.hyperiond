@@ -1,3 +1,7 @@
+1.0.7
+- Update hyperion release "Tue Jan 6, 2015"
+- Commit 192f25700568c65aed7b50948fd28e80698ca9f9
+
 1.0.6
 - Update hyperion release "Sat Dec 21, 2014"
 - Commit 987624f1061937fdbc7102aaab26a6864401c50f
