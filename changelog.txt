@@ -1,3 +1,7 @@
+1.0.11
+- Update hyperion release "Thu Mar 12, 2015"
+- Commit 817dd1164d4662131578a19d2f19107750b4689b
+
 1.0.10
 - Fixed startup problems
 
